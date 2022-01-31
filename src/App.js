@@ -7,7 +7,7 @@ function App() {
   const [templates, setTemplates] = useState([
     { value: 'empty', label: '---' },
   ]);
-  const [selectedTemplate, setSelectedTemplate] = useState('doge');
+  const [selectedTemplate, setSelectedTemplate] = useState('ackbar');
   // const [inputText, setInputText] = useState('');
   const [topText, setTopText] = useState('');
   const [botText, setBotText] = useState('');
